@@ -1,0 +1,6 @@
+D:\Vijay\Project\TrainingManagementView\bin\TrainingManagementView.dll.config
+D:\Vijay\Project\TrainingManagementView\bin\TrainingManagementView.dll
+D:\Vijay\Project\TrainingManagementView\bin\TrainingManagementView.pdb
+D:\Vijay\Project\TrainingManagementView\obj\Debug\TrainingManagementView.csprojResolveAssemblyReference.cache
+D:\Vijay\Project\TrainingManagementView\obj\Debug\TrainingManagementView.dll
+D:\Vijay\Project\TrainingManagementView\obj\Debug\TrainingManagementView.pdb

@@ -1,0 +1,33 @@
+body, header, section, footer{
+    width: 100%;
+}
+
+.container, .jumbotron{
+    margin: 0;
+    padding: 0;
+}
+
+header.top{
+    background-color: #FFFFFF;
+    border-bottom: solid 2px #2574a8;
+    padding: 2%;
+}
+
+.logo {    
+    width: 120px;
+    height: 80px;
+}
+
+section{
+    height: 400px;
+}
+
+footer.bottom{
+    background-color:#5183c8;
+    color: #FFFFFF;
+    height: 80px;
+}
+
+br{
+    clear: both;
+}
